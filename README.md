@@ -1,6 +1,9 @@
-# Что умеет этот бот?
+# What can do that bot?
 
-+ Переводить армянский транслит на русский язык
-+ Переводить армянский транслит на английский язык
++ Translate armenian transliteration to russian
++ Translate armenian transliteration to english
 
-+ Бот написан полностью на PHP
+# Whan should remember?
+
++ Dont forget about "composer install"
++ Bot created with native PHP and MySQL
