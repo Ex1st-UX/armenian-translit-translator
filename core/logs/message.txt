@@ -1,0 +1,12 @@
+stdClass Object
+(
+    [translations] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [text] => Welcome, we hope you managed to take advantage of the royal blood, and you can appreciate us as you pass by. gtps: / / бит.ly/37g1j Day
+                )
+
+        )
+
+)
